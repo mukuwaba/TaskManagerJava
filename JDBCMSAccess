@@ -99,5 +99,8 @@ public class JDBCMSAccess {
 //Type/Paste: net.sf.ucanaccess:ucanaccess:5.0.0
 //Click 'Ok' x2
 
+//Make sure to change the paths
+//Make sure the table is named TaskInput and has only one column
+
 //Won't run unless this is done
 //should see 'net.sf.ucanaccess:ucanaccess:5.0.0' after clicking 'External Libraries' on sidebar
